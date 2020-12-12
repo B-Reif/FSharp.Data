@@ -145,4 +145,5 @@ let ``Can singularize names``() =
    check "women" "woman"
    check "indices" "index"
    check "indexes" "index"
+   check "slices" "slice"
    check "statuses" "status"
